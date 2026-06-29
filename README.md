@@ -16,7 +16,19 @@ I am actively building hands-on expertise in routing and switching through Cisco
 
 I am driven to bridge academic knowledge with real-world infrastructure challenges and deliver meaningful impact in the field.
 
+</div>
 
+### 📌 Pinned Projects
+
+<div align="left">
+
+<a href="https://github.com/KarimNsouli/Network_AutomationScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=Network_AutomationScript&theme=default" alt="Network-Automation-Script"/>
+</a>
+
+
+</div>
+  
 ### 🧰 Tech & Tools
 
 <div align="left">

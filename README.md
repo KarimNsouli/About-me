@@ -1,10 +1,57 @@
-<h1>Hi, I'm Karim! <br/><a href="www.linkedin.com/in/karim-nsouli-4a1847332"></a> <a href="www.linkedin.com/in/karim-nsouli-4a1847332"></a>
+<div align="center">
 
-<h2>👨‍💻 IT Projects:</h2>
+# Hi there, I'm Karim Nsouli 👋
+
+### Computer Information & Technology Student @ RIT Dubai
+
+</div>
+
+---
+
+### 🌟 About Me
+
+Hello, I'm Karim Nsouli — a Computer Information & Technology student @ RIT Dubai with a strong passion for network engineering. 
+
+I am actively building hands-on expertise in routing and switching through Cisco Packet Tracer, while developing core technical proficiencies in shell scripting, automation, and security such as Bash, Python, Ansible, Nmap, and Wireshark. Alongside this, I am expanding my foundation in DevOps practices, including containerization and orchestration with Docker and Kubernetes.
+
+I am driven to bridge academic knowledge with real-world infrastructure challenges and deliver meaningful impact in the field.
 
 
+### 🧰 Tech & Tools
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="KarimNsouli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div align="left">
 
-[linkedin]: https://linkedin.com/in/karim-nsouli-4a1847332
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4479A1?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+
+</div>
+
+### 📄 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| [Shell Scripting Certificate](https://www.linkedin.com/in/karim-nsouli-4a1847332/overlay/Certifications/367274608/treasury/?profileId=ACoAAFPGNfkBjkRIXLAFBxJdW3LjpKQqiARRGM8) | Linkedin Learning | Jan 2026 |
+
+
+### 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://linkedin.com/in/karim-nsouli-4a1847332" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<i>Thanks for stopping by — always open to learning, collaborating, and connecting with fellow IT enthusiasts! 🔐</i>
+</div>

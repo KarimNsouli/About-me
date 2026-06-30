@@ -32,8 +32,7 @@ I am driven to bridge academic knowledge with real-world infrastructure challeng
 ### 🧰 Tech & Tools
 
 <div align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Nmap-4479A1?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>

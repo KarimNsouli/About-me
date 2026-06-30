@@ -25,7 +25,9 @@ I am driven to bridge academic knowledge with real-world infrastructure challeng
 <a href="https://github.com/KarimNsouli/Network_AutomationScript">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=Network_AutomationScript&theme=default" alt="Network-Automation-Script"/>
 </a>
-
+<a href="https://github.com/KarimNsouli/DHCP-Server-in-Home-Network-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=DHCP-Server-in-Home-Network-&theme=default" alt="DHCP Server HomeLab"/>
+</a>
 
 </div>
   

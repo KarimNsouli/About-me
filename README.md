@@ -30,6 +30,10 @@ I am driven to bridge academic knowledge with real-world infrastructure challeng
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=DHCP-Server-in-Home-Network-&theme=default" alt="DHCP Server HomeLab"/>
 </a>
 
+<a href="https://github.com/KarimNsouli/Active_Directory_Homelab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=Active_Directory_Homelab-&theme=default" alt="Active Directory Homelab"/>
+</a>
+
 </div>
   
 ### 🧰 Tech & Tools

@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-Hello, I'm Karim Nsouli — a Computer Information & Technology student @ RIT Dubai with a strong passion for network engineering. 
+Hello, I'm Karim Nsouli, a Computer Information & Technology student @ RIT Dubai with a strong passion for network engineering. 
 
 I am actively building hands-on expertise in routing and switching through Cisco Packet Tracer, while developing core technical proficiencies in shell scripting, automation, and security such as Bash, Python, Ansible, Nmap, and Wireshark. Alongside this, I am expanding my foundation in DevOps practices, including containerization and orchestration with Docker and Kubernetes.
 

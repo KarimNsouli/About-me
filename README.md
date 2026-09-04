@@ -10,25 +10,16 @@
 
 ### 🌟 About Me
 
-Hello, I'm Karim Nsouli, a Computer Information & Technology student @ RIT Dubai with a strong passion for network engineering. 
+Hello I'm Karim! 
 
-I am actively building hands-on expertise in routing and switching through Cisco Packet Tracer, while developing core technical proficiencies in shell scripting, automation, and security such as Bash, Python, Ansible, Nmap, and Wireshark. Alongside this, I am expanding my foundation in DevOps practices, including containerization and orchestration with Docker and Kubernetes.
+A Computer Information Technology student @ RIT Dubai passionate about networking, automation, security, and low level systems development with a keen eye toward the business side where technical depth meets client impact.
 
-I am driven to bridge academic knowledge with real-world infrastructure challenges and deliver meaningful impact in the field.
-
+All projects are listed in my GitHub below
 </div>
 
 ### 📌 Pinned Projects
 
 <div align="left">
-
-<a href="https://github.com/KarimNsouli/Network_AutomationScript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=Network_AutomationScript&theme=default" alt="Network-Automation-Script"/>
-</a>
-
-<a href="https://github.com/KarimNsouli/DHCP-Server-in-Home-Network-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=DHCP-Server-in-Home-Network-&theme=default" alt="DHCP Server HomeLab"/>
-</a>
 
 <a href="https://github.com/KarimNsouli/Active_Directory_Homelab">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimNsouli&repo=Active_Directory_Homelab-&theme=default" alt="Active Directory Homelab"/>
@@ -71,5 +62,5 @@ I am driven to bridge academic knowledge with real-world infrastructure challeng
 ---
 
 <div align="center">
-<i>Thanks for stopping by — always open to learning, collaborating, and connecting with fellow IT enthusiasts! 🔐</i>
+<i>Thanks for stopping by and of course I am always open to learning, collaborating, and connecting with fellow IT enthusiasts! 🔐</i>
 </div>
